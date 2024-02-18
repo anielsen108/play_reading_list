@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-#### Forms of play: broad perspective:  
+#### Forms of play - broad perspectives:  
 * [The Anthropology of Play](#the-anthropology-of-play)
 * [The Role of Play in Development Psychology](#the-role-of-play-in-developmental-psychology)
 * [Ritual As Play](#ritual-as-play)
@@ -10,7 +10,7 @@
 * [Serious Play](#serious-play)
 * [Play and the Meaningful Life](#play-and-the-meaningful-life)
 * [The Phenomenology of Play](#the-phenomenology-of-play)
-#### Forms of play: narrow perspectives:  
+#### Forms of play - narrow perspectives:  
 * [Playing Games](#playing-games)
 * [Physical Play](#physical-play)
 
