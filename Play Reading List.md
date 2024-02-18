@@ -7,9 +7,9 @@
 * [The Role of Play in Development Psychology](#the-role-of-play-in-developmental-psychology)
 * [Ritual As Play](#ritual-as-play)
 #### The Subjective Experience of Play
-* [The Phenomenology of Play](#the-phenomenology-of-play)
 * [Serious Play](#serious-play)
 * [Play and the Meaningful Life](#play-and-the-meaningful-life)
+* [The Phenomenology of Play](#the-phenomenology-of-play)
 #### Forms of play: narrow perspectives:  
 * [Playing Games](#playing-games)
 * [Physical Play](#physical-play)
@@ -17,18 +17,21 @@
 <hr>
 
 ## The Anthropology of Play
-* [The Ambiguity of Play - Brian Sutton-Smith](https://www.amazon.com/Ambiguity-Play-Brian-Sutton-Smith/dp/0674005813)
 * [What’s the Point If We Can’t Have Fun? - David Graeber](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
 * [Graeber v. Gradgrind - Omniorthogonal](https://omniorthogonal.blogspot.com/2015/12/graeber-v-gradgrind.html)
+* [Ends, Means, and Galumphing: Some Leitmotifs of Play - Stephen Miller](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1973.75.1.02a00050)
 * [Excerpt from David Graeber's Utopia of Rules](https://twitter.com/meekaale/status/1650372401186611200)
 * [On Seriousness: The precious resource America lacks - Katherine Boyle](https://boyle.substack.com/p/on-seriousness)
-* [Ends, Means, and Galumphing: Some Leitmotifs of Play - Stephen Miller](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1973.75.1.02a00050)
+  
+*Further Reading*
+* [The Ambiguity of Play - Brian Sutton-Smith](https://www.amazon.com/Ambiguity-Play-Brian-Sutton-Smith/dp/0674005813)
 
 ## The Role of Play in Developmental Psychology
 * [The Play Deficit - Peter Gray](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
 * [What Is Play? How Children Define It - Peter Gray](https://www.psychologytoday.com/us/blog/freedom-learn/202205/what-is-play-how-children-define-it)
 * [The Creative Space of Play: D.W. Winnicott](https://onluminousgrounds.wordpress.com/2010/09/19/the-creative-space-of-play/)
 * [Donald Winnicott: Play and the sense of being real - Wikipedia](http://en.wikipedia.org/wiki/Donald_Winnicott#Play_and_the_sense_of_being_real)
+* [Play as a Cognitive Primitive - Mike Travers](http://hyperphor.com/refactor/play-pres/play-lightning-final.html)
 
 *Further Reading*
 * [Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul - Stuart Brown](https://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates-ebook/dp/B001SCK720/)
@@ -41,19 +44,6 @@
 
 *Further Reading*
 * [The Future of Ritual: Writings on Culture and Performance - Richard Schechner ](https://www.amazon.com/Future-Ritual-Writings-Culture-Performance-ebook/dp/B000PLXENE)
-
-## The Phenomenology of Play
-* [Red Pandas Playing](https://www.youtube.com/watch?v=oimTxlCi36E)
-* [What is Play? - Matt Elder ](https://twitter.com/fiddlemath/status/1207404931776315392)
-* [Excerpt from Frank Oppenheimer on Play as Developing Taste](https://twitter.com/andy_matuschak/status/1282155960966864897)
-* [On Play - David MacIver](https://twitter.com/DRMacIver/status/1340636936340430849)
-* [Agency Made Me Do It: Play - Mike Travers](http://www.hyperphor.com/ammdi/pages/play.html)
-* [Play as a Cognitive Primitive - Mike Travers](http://hyperphor.com/refactor/play-pres/play-lightning-final.html)
-* [This is Play - Stephen Nachmanovitch](http://www.freeplay.com/Writings/Nachmanovitch.This.is.play.NLH2009.pub.pdf)
-* [What's the Point - Anon](https://clinicalphilosophy.blogspot.com/2016/12/whats-point.html)
-* [The Grasshopper: Games, Life and Utopia - Bernard Suits](https://www.amazon.com/Grasshopper-Third-Games-Life-Utopia-ebook/dp/B01HQHJ730/)
-* [Gadamer's Ethics of Play: Hermeneutics and the Other - Monica Vilhauer](https://www.amazon.com/Gadamers-Ethics-Play-Hermeneutics-Other-ebook/dp/B004YW59KQ)
-* [The Art of Losing Control: A Philosopher's Search for Ecstatic Experience Paperback – Jules Evans](https://www.amazon.com/Art-Losing-Control-Philosophers-Experience/dp/1782118780)
 
 ## Serious Play
 * [On Serious Play- Bryan Kam ](https://twitter.com/bryankam/status/1534560129584009216)
@@ -68,6 +58,20 @@
 * [Awakening from the Meaning Crisis - Gnosis and Existential Inertia - John Vervaeke](https://www.youtube.com/watch?v=mXfK4nicygA&t=2346s)
 * [Life is Neither Poker nor Tennis- David MacIver](https://notebook.drmaciver.com/posts/2020-05-28-07:42.html)
 * [Excerpt from Todd Hargrove on Play and Personal Autonomy](https://twitter.com/Meaningness/status/1247333001618313217)
+
+## The Phenomenology of Play
+* [Red Pandas Playing](https://www.youtube.com/watch?v=oimTxlCi36E)
+* [What is Play? - Matt Elder ](https://twitter.com/fiddlemath/status/1207404931776315392)
+* [What's the Point - Anon](https://clinicalphilosophy.blogspot.com/2016/12/whats-point.html)
+* [Excerpt from Frank Oppenheimer on Play as Developing Taste](https://twitter.com/andy_matuschak/status/1282155960966864897)
+* [On Play - David MacIver](https://twitter.com/DRMacIver/status/1340636936340430849)
+* [Agency Made Me Do It: Play - Mike Travers](http://www.hyperphor.com/ammdi/pages/play.html)
+* [This is Play - Stephen Nachmanovitch](http://www.freeplay.com/Writings/Nachmanovitch.This.is.play.NLH2009.pub.pdf)
+* [The Grasshopper: Games, Life and Utopia - Bernard Suits](https://www.amazon.com/Grasshopper-Third-Games-Life-Utopia-ebook/dp/B01HQHJ730/)
+
+*Further Reading*
+* [The Art of Losing Control: A Philosopher's Search for Ecstatic Experience Paperback – Jules Evans](https://www.amazon.com/Art-Losing-Control-Philosophers-Experience/dp/1782118780)
+* [Gadamer's Ethics of Play: Hermeneutics and the Other - Monica Vilhauer](https://www.amazon.com/Gadamers-Ethics-Play-Hermeneutics-Other-ebook/dp/B004YW59KQ)
 
 ## Playing Games
 * [https://www.amazon.com/Play-Unsafe-Graham-Walmsley-ebook/dp/B009IRMQ7G](https://www.amazon.com/Play-Unsafe-Graham-Walmsley-ebook/dp/B009IRMQ7G)
