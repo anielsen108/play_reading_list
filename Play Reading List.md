@@ -81,7 +81,7 @@
 * [Uncertainty in Games (Playful Thinking) - Greg Costikyan](https://www.amazon.com/Uncertainty-Games-Playful-Thinking-Costikyan-ebook/dp/B08BT2Y39X)
 
 ## Physical Play
-* [The Lost art of Play - Mark Sisson](https://web.archive.org/web/20231220072239/http://www.marksdailyapple.com/the-lost-art-of-play-reclaiming-a-primal-tradition/)
+* [The Lost Art of Play - Mark Sisson](https://web.archive.org/web/20231220072239/http://www.marksdailyapple.com/the-lost-art-of-play-reclaiming-a-primal-tradition/)
 * [The Definitive Guide to Play - Mark Sisson](https://web.archive.org/web/20231220072235/https://www.marksdailyapple.com/the-definitive-guide-to-play/)
 * [Of Rhythm and Movement: physical play and dance as (participatory) sense-making practices - Carolien Hermans](https://www.tandfonline.com/doi/full/10.1080/14647893.2023.2211524)
 
