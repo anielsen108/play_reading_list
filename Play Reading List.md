@@ -14,6 +14,8 @@
 * [Playing Games](#playing-games)
 * [Physical Play](#physical-play)
 
+<sub>*Summaries were drawn from abstracts, introductory paragraphs, book promotional materials and large-language model summarizations of pages, lightly edited.*</sub>
+
 <hr>
 
 ## The Anthropology of Play
@@ -90,9 +92,9 @@
 
 ## The Phenomenology of Play
 * [What is Play? - Matt Elder ](https://twitter.com/fiddlemath/status/1207404931776315392)
-*Explorations of "What is play?"
+*Explorations of "What is play?"*
 * [On Play - David MacIver](https://twitter.com/DRMacIver/status/1340636936340430849)
-*Considerations on "what is play?"
+*Considerations on "what is play?"*
 * [What's the Point - Anon](https://clinicalphilosophy.blogspot.com/2016/12/whats-point.html)
 *Depression rests on a prior alienation of a subject from her life, and that it tries to lure us into a conversation to be had solely on its terms. The author suggests that many junctures of living are neither pointless nor pointful, and that we should ask other questions that disrupt the depressive rumination.*
 * [Excerpt from Frank Oppenheimer on Play as Developing Taste](https://twitter.com/andy_matuschak/status/1282155960966864897)
