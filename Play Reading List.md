@@ -14,14 +14,14 @@
 * [Playing Games](#playing-games)
 * [Physical Play](#physical-play)
 
-<sub>*Summaries were drawn from abstracts, introductory paragraphs, book promotional materials and large-language model summarizations of pages, lightly edited.*</sub>
+<sub>*Checkboxes indicate study focus items. Summaries were drawn from abstracts, introductory paragraphs, book promotional materials and large-language model summarizations of pages, lightly edited.*</sub>
 
 <hr>
 
 ## The Anthropology of Play
-* [Red Pandas Playing](https://www.youtube.com/watch?v=oimTxlCi36E) [2 minutes]
+- [ ] [Red Pandas Playing](https://www.youtube.com/watch?v=oimTxlCi36E) [2 minutes]
 *Red pandas demonstrate the essence of play.*
-* [What’s the Point If We Can’t Have Fun? - David Graeber](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun) [25 minutes]
+- [ ] [What’s the Point If We Can’t Have Fun? - David Graeber](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun) [25 minutes]
 *Graeber challenges the dominant view that living beings are driven by rational self-interest, and argues that play is a fundamental principle of reality that can explain the emergence of complexity, consciousness, and freedom. He draws on examples from physics, biology, philosophy, and Taoism to support his claim that play is not a mere anomaly, but a source of joy and creativity that pervades all levels of existence.*
 * [Graeber v. Gradgrind - Omniorthogonal](https://omniorthogonal.blogspot.com/2015/12/graeber-v-gradgrind.html) [21 minutes]
 *The author argues that Graeber’s view of play as purposeless and opposed to rationality is flawed and anti-scientific. The author also suggests that play can be seen as an emergent phenomenon that does not contradict the logic of evolution or materialism. The author concludes by acknowledging the philosophical challenge of explaining how higher-level phenomena can arise from lower-level mechanisms, but rejects Graeber’s proposal of play as a foundational principle of reality.*
@@ -33,15 +33,15 @@
 *Sutton-Smith focuses on play theories rooted in seven distinct “rhetorics”―the ancient discourses of Fate, Power, Communal Identity, and Frivolity and the modern discourses of Progress, the Imaginary, and the Self. In an analysis that moves from the question of play in child development to the implications of play for the Western work ethic, he explores the values, historical sources, and interests that have dictated the terms and forms of play put forth in each discourse’s “objective” theory.*
 
 ## The Role of Play in Developmental Psychology
-* [The Play Deficit - Peter Gray](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play) [25 minutes]
+- [ ] [The Play Deficit - Peter Gray](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play) [25 minutes]
 *Children today are cossetted and pressured in equal measure. Without the freedom to play they will never grow up.*
 * [What Is Play? How Children Define It - Peter Gray](https://www.psychologytoday.com/us/blog/freedom-learn/202205/what-is-play-how-children-define-it) [9 minutes]
 *Many educational programs that claim to be play-based are not really play, because they are controlled by the teacher rather than the children. He also suggests that parents and teachers should do less for children and let them play more freely.*
-* [The Creative Space of Play: D.W. Winnicott - Mike van Eerden](https://onluminousgrounds.wordpress.com/2010/09/19/the-creative-space-of-play/) [7 minutes]
+- [ ] [The Creative Space of Play: D.W. Winnicott - Mike van Eerden](https://onluminousgrounds.wordpress.com/2010/09/19/the-creative-space-of-play/) [7 minutes]
 *Explores the concept of playing as the basis for creativity and self-discovery, based on the ideas of British psychologist D.W. Winnicott. The author explains what playing is and is not, and how it enables a creative reaching-out and a triadic relationship with the world (self, samples of inner reality, and pieces of external reality).* 
-* [Donald Winnicott: Play and the sense of being real - Wikipedia](http://en.wikipedia.org/wiki/Donald_Winnicott#Play_and_the_sense_of_being_real) [5 minutes]
+- [ ] [Donald Winnicott: Play and the sense of being real - Wikipedia](http://en.wikipedia.org/wiki/Donald_Winnicott#Play_and_the_sense_of_being_real) [5 minutes]
 *One of the elements that Winnicott considered could be lost in childhood was what he called the sense of being – for him, a primary element, of which a sense of doing is only a derivative. The capacity for being – the ability to feel genuinely alive inside, which Winnicott saw as essential to the maintenance of a true self – was fostered in his view by the practice of childhood play.*
-* [Play as a Cognitive Primitive - Mike Travers](http://hyperphor.com/refactor/play-pres/play-lightning-final.html) [7 minutes]
+- [ ] [Play as a Cognitive Primitive - Mike Travers](http://hyperphor.com/refactor/play-pres/play-lightning-final.html) [7 minutes]
 *Play is a fundamental mode of cognition that enables humans to explore, learn, and create. He defines play as a voluntary, self-motivated, and enjoyable activity that is not constrained by external goals or rules. He also discusses the benefits of play for personal development, social interaction, and cultural innovation. He concludes by suggesting that play is a valuable perspective for understanding and designing human-computer systems.*
 
 ***Books for Further Reading***
@@ -49,12 +49,12 @@
 *Dr. Brown has spent his career studying animal behavior and conducting more than six-thousand "play histories" of humans from all walks of life-from serial murderers to Nobel Prize winners. He explains why play is essential to our social skills, adaptability, intelligence, creativity, ability to problem solve and more. Particularly in tough times, we need to play more than ever, as it's the very means by which we prepare for the unexpected, search out new solutions, and remain optimistic.*
 
 ## Ritual As Play
-* [Ritual vs. mentalism - David Chapman](https://vividness.live/2015/04/04/ritual-vs-mentalism/) [20 minutes]
+- [ ] [Ritual vs. mentalism - David Chapman](https://vividness.live/2015/04/04/ritual-vs-mentalism/) [20 minutes]
 *A review of the book Ritual and Its Consequences: An Essay on the Limits of Sincerity, which contrasts the “ritual” and “sincere” modes of being and argues for the value of ritual in human life.*
+- [ ] [On Wearing Ridiculous Hats - David Chapman](https://twitter.com/Meaningness/status/1369146971181576195) [5 minutes]
+*A rant on loss of playfulness in everyday life.*
 * [Metamodern Play - John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark](https://www.youtube.com/watch?v=iAeVE5D4tqU)  [90 minutes]
 *A dialogue on metamodern play.*
-* [On Wearing Ridiculous Hats - David Chapman](https://twitter.com/Meaningness/status/1369146971181576195) [5 minutes]
-*A rant on loss of playfulness in everyday life.*
 
 ***Books for Further Reading***
 * [Buddhist Practice as Play: A Virtue Ethical View - Meynard Vasen ](http://blogs.dickinson.edu/buddhistethics/files/2014/01/Vasen-Buddhist-Practice-as-Play-final.pdf)
@@ -63,24 +63,24 @@
 *Explores the nature of ritualised behaviour and its relationship to performance and politics. An examination of cultural expression and communal action.*
 
 ## Serious Play
-* [On Serious Play- Bryan Kam ](https://twitter.com/bryankam/status/1534560129584009216) [5 minutes]
+- [ ] [On Serious Play- Bryan Kam ](https://twitter.com/bryankam/status/1534560129584009216) [5 minutes]
 *Defining "serious play".*
-* [Richard Feynman, Spinning Plates and Serious Play - Ben Weinlick](https://thinkjarcollective.com/articles/richard-feynman-spinning-plates-and-serious-play/) [6 minutes]
+- [ ] [Richard Feynman, Spinning Plates and Serious Play - Ben Weinlick](https://thinkjarcollective.com/articles/richard-feynman-spinning-plates-and-serious-play/) [6 minutes]
 *An outline of the general pattern of creative thinking that Feynman followed, which involves domain knowledge, focus, letting go, and serious play.*
+- [ ] [Avoiding Major Pitfalls - Misen](https://twitter.com/misen__/status/1354439086828900359) [5 minutes]
+*How play helps avoid major life pitfalls.*
 * [Lecture On Creativity - John Cleese](http://genius.com/John-cleese-lecture-on-creativity-annotated#note-2556672) [15 minutes]
 *How to get into the “open mode” of thinking, which is essential for being creative.*
-* [Avoiding Major Pitfalls - Misen](https://twitter.com/misen__/status/1354439086828900359) [5 minutes]
-*How play helps avoid major life pitfalls.*
   
 ## Play and The Meaningful Life
+- [ ] [Life is Neither Poker nor Tennis - David MacIver](https://notebook.drmaciver.com/posts/2020-05-28-07:42.html) [10 minutes]
+*Argues that life is neither poker nor tennis, but requires a different kind of rationality that he calls metarationality. He criticizes the books “Thinking in Bets” by Annie Duke and “The Inner Game of Tennis” by Timothy Gallwey for generalizing their respective games to life situations, without considering the differences in agency, structure, and uncertainty.*
+- [ ] [Excerpt from Todd Hargrove on Play and Personal Autonomy](https://twitter.com/Meaningness/status/1247333001618313217) [5 minutes]
+*How those who do not play lose personal autonomy.*
 * [Design games so you enjoy playing them - Michael Ashcroft](https://www.michaelashcroft.org/notebook/design-games-so-you-enjoy-playing-them) [5 minutes] 
 *Play is not something frivolous, but a state of mind that allows us to enjoy the process of doing things, rather than focusing on the outcome.*
 * [Awakening from the Meaning Crisis - Gnosis and Existential Inertia - John Vervaeke](https://www.youtube.com/watch?v=mXfK4nicygA&t=2346s) [15 minutes]
 *How play is essential to meaning in life.*
-* [Life is Neither Poker nor Tennis - David MacIver](https://notebook.drmaciver.com/posts/2020-05-28-07:42.html) [10 minutes]
-*Argues that life is neither poker nor tennis, but requires a different kind of rationality that he calls metarationality. He criticizes the books “Thinking in Bets” by Annie Duke and “The Inner Game of Tennis” by Timothy Gallwey for generalizing their respective games to life situations, without considering the differences in agency, structure, and uncertainty.*
-* [Excerpt from Todd Hargrove on Play and Personal Autonomy](https://twitter.com/Meaningness/status/1247333001618313217) [5 minutes]
-*How those who do not play lose personal autonomy.*
 * [Playfulness and the meaningful life: an active inference perspective - Julian Kiverstein](https://academic.oup.com/nc/article/2023/1/niad024/7428705?login=false) [25 minutes]
 *Explain how active inference models predict that uncertainty can sometimes, under the right conditions, be conducive to the experiences of flourishing. Our focus is on playfulness, because playful individuals have learned a high-level prior that in certain safe contexts, uncertainty and error should be tolerated and explored.*
 
@@ -89,16 +89,16 @@
 *Paying attention to the abundance of stuff in the world and finding meaning in it.*
 
 ## The Phenomenology of Play
-* [What is Play? - Matt Elder ](https://twitter.com/fiddlemath/status/1207404931776315392) [15 minutes]
+- [ ] [What is Play? - Matt Elder ](https://twitter.com/fiddlemath/status/1207404931776315392) [15 minutes]
 *Explorations of "What is play?"*
+- [ ] [Excerpt from Frank Oppenheimer on Play as Developing Taste](https://twitter.com/andy_matuschak/status/1282155960966864897) [2 minutes]
+*Play is so important because it's one of the only ways adults hone their sense of taste.*
+- [ ] [Agency Made Me Do It: Play - Mike Travers](http://www.hyperphor.com/ammdi/pages/play.html) [8 minutes]
+*Play is extremely relevant to any theory of agency. The standard model of agency is essentially rational – that there are goals and actions are undertaken in pursuit of these goals. Play is by definition not goal oriented, or at least, play-goals are quite different from rationality-goals.*
 * [On Play - David MacIver](https://twitter.com/DRMacIver/status/1340636936340430849) [10 minutes]
 *Considerations on "what is play?"*
 * [What's the Point - Anon](https://clinicalphilosophy.blogspot.com/2016/12/whats-point.html) [5 minutes]
 *Depression rests on a prior alienation of a subject from her life, and that it tries to lure us into a conversation to be had solely on its terms. The author suggests that many junctures of living are neither pointless nor pointful, and that we should ask other questions that disrupt the depressive rumination.*
-* [Excerpt from Frank Oppenheimer on Play as Developing Taste](https://twitter.com/andy_matuschak/status/1282155960966864897) [2 minutes]
-*Play is so important because it's one of the only ways adults hone their sense of taste.*
-* [Agency Made Me Do It: Play - Mike Travers](http://www.hyperphor.com/ammdi/pages/play.html) [8 minutes]
-*Play is extremely relevant to any theory of agency. The standard model of agency is essentially rational – that there are goals and actions are undertaken in pursuit of these goals. Play is by definition not goal oriented, or at least, play-goals are quite different from rationality-goals.*
 
 ***Books for Further Reading***
 * [The Grasshopper: Games, Life and Utopia - Bernard Suits](https://www.amazon.com/Grasshopper-Third-Games-Life-Utopia-ebook/dp/B01HQHJ730/)
