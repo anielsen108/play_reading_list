@@ -35,7 +35,7 @@
 ## The Role of Play in Developmental Psychology
 - [ ] [The Play Deficit - Peter Gray](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play) [25 minutes]
 *Children today are cossetted and pressured in equal measure. Without the freedom to play they will never grow up.*
-* [What Is Play? How Children Define It - Peter Gray](https://www.psychologytoday.com/us/blog/freedom-learn/202205/what-is-play-how-children-define-it) [9 minutes]
+- [ ] [What Is Play? How Children Define It - Peter Gray](https://www.psychologytoday.com/us/blog/freedom-learn/202205/what-is-play-how-children-define-it) [9 minutes]
 *Many educational programs that claim to be play-based are not really play, because they are controlled by the teacher rather than the children. He also suggests that parents and teachers should do less for children and let them play more freely.*
 - [ ] [The Creative Space of Play: D.W. Winnicott - Mike van Eerden](https://onluminousgrounds.wordpress.com/2010/09/19/the-creative-space-of-play/) [7 minutes]
 *Explores the concept of playing as the basis for creativity and self-discovery, based on the ideas of British psychologist D.W. Winnicott. The author explains what playing is and is not, and how it enables a creative reaching-out and a triadic relationship with the world (self, samples of inner reality, and pieces of external reality).* 
