@@ -69,6 +69,7 @@
 *An outline of the general pattern of creative thinking that Feynman followed, which involves domain knowledge, focus, letting go, and serious play.*
 - [ ] [Avoiding Major Pitfalls - Misen](https://twitter.com/misen__/status/1354439086828900359) [5 minutes]
 *How play helps avoid major life pitfalls.*
+- [ ] [Play is the Mother of Invention - Peter Gray](https://petergray.substack.com/p/32-play-is-the-mother-of-invention) [10 minutes]
 * [Lecture On Creativity - John Cleese](http://genius.com/John-cleese-lecture-on-creativity-annotated#note-2556672) [15 minutes]
 *How to get into the “open mode” of thinking, which is essential for being creative.*
   
